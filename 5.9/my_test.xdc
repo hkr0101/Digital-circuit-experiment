@@ -17,7 +17,7 @@ set_property PACKAGE_PIN R1 [get_ports {Q[3]}]
 set_property PACKAGE_PIN P2 [get_ports {Q[2]}]
 set_property PACKAGE_PIN P1 [get_ports {Q[1]}]
 set_property PACKAGE_PIN N2 [get_ports {Q[0]}]
-set_property PACKAGE_PIN AB8 [get_ports cp]
+set_property PACKAGE_PIN AA8 [get_ports cp]
 
 set_property IOSTANDARD LVCMOS18 [get_ports ct_]
 set_property IOSTANDARD LVCMOS18 [get_ports ld_]
